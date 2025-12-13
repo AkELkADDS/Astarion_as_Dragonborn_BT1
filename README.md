@@ -1,8 +1,5 @@
-Clawstep - Dragonborn female body
+Astarion as Dragonborn
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
-
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
