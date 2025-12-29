@@ -133,7 +133,7 @@
                             <attribute id="Name" type="LSString" value="Clansong - Speaking Dragonborns CC Heads"/>
                             <attribute id="PublishHandle" type="uint64" value="5538756"/>
                             <attribute id="UUID" type="guid" value="d38b29fc-44ab-2017-6de0-aa8241e9ba40"/>
-                            <attribute id="Version64" type="int64" value="36028797018963979"/>
+                            <attribute id="Version64" type="int64" value="36028797018963983"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a"/>
@@ -157,7 +157,7 @@
                             <attribute id="Name" type="LSString" value="ZXY - FleshForge - Dragonborn CC Body Selector"/>
                             <attribute id="PublishHandle" type="uint64" value="5069480"/>
                             <attribute id="UUID" type="guid" value="27cfc9d7-38e8-7a04-5779-9f53773e9dda"/>
-                            <attribute id="Version64" type="int64" value="36028797018963984"/>
+                            <attribute id="Version64" type="int64" value="36028797018963985"/>
                         </node>
                     </children>
                 </node>
@@ -168,15 +168,15 @@
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="Astarion_as_Dragonborn_EL_be741b6f-83d7-3c47-12c1-b81af59dc1ab"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="422a9e18a4771c36b86b11adaa6cdad6"/>
+                    <attribute id="MD5" type="LSString" value="9def100c3d7563fc46b734ddb90ed2be"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="LSString" value="Astarion as Dragonborn BT1"/>
+                    <attribute id="Name" type="LSString" value="Clansong - Astarion as Pale Ruby Dragonborn BT1"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="5577293"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="be741b6f-83d7-3c47-12c1-b81af59dc1ab"/>
-                    <attribute id="Version64" type="int64" value="36028797018963971"/>
+                    <attribute id="Version64" type="int64" value="36028797018963972"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718626661"/>
