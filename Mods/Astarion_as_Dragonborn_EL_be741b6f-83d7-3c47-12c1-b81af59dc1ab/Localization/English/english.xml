@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <content contentuid="h446e1ff9g1341g4339g9684g06162e176c6d" version="21">Astarion</content>
-  <content contentuid="hf528d12dg4695g4a8bg8746g847da146f827" version="16">Astarion</content>
+  <content contentuid="h446e1ff9g1341g4339g9684g06162e176c6d" version="22">Astarion</content>
+  <content contentuid="hf528d12dg4695g4a8bg8746g847da146f827" version="17">Astarion</content>
   <content contentuid="hd84d7768g34a5g4854gb471gbda76b8f76d5" version="10">Astarion</content>
   <content contentuid="h818a9906g4edag4ffeg8ab5g314dbaefbaba" version="10">Astarion</content>
   <content contentuid="h1b38eb33ge782g82cdged53g351d8f0242ed" version="1">Astarion</content>
@@ -19,8 +19,11 @@
   <content contentuid="h3bdc5e7agba49g1398gd4f0g81979ce1b518" version="7">This Ruby Dragonborn’s scales are unusually weathered, their once-red hues faded to pale, chalk-white patches, as though something has been slowly drawn out of them over time.</content>
   <content contentuid="hea58e382gafb1gcb8bgf99fg1874daf111be" version="1">Astarion</content>
   <content contentuid="hb18783d7gaafdgfbccga513g8907e588e0f8" version="1">After two hundred years serving a cruel master, the vampire spawn Astarion is finally free - free to walk in the sun, free to chase power, and free to take revenge.</content>
-  <content contentuid="h6edfe22bg8308g07f2g0e8dgb696c4166fa0" version="2">Withered Undead</content>
+  <content contentuid="h6edfe22bg8308g07f2g0e8dgb696c4166fa0" version="3">Astarion Withered Undead</content>
   <content contentuid="h1d198fa4g5d3dg6453g31eagda9840561092" version="1">Astarion</content>
   <content contentuid="h768e0739ge25dg2f2fgb5f1g66005396e355" version="1">After two hundred years serving a cruel master, the vampire spawn Astarion is finally free - free to walk in the sun, free to chase power, and free to take revenge.</content>
   <content contentuid="h40499513g9b2cgfb6bged80gc133d6b03ecc" version="5">Dragonborn</content>
+  <content contentuid="h955d0ccfge8f4ga4ccg5031g2ec33185d8ef" version="1">Flame Red 1 Astarion</content>
+  <content contentuid="h7e7e3a46gd0f8g07b5g94d9g38d89beaaaf9" version="1">Flame Red 1 Astarion Blind R</content>
+  <content contentuid="h851eac80g715eg8f1dg055eg1feeb4d8f8a8" version="1">Flame Red 1 Astarion Blind L</content>
 </contentList>

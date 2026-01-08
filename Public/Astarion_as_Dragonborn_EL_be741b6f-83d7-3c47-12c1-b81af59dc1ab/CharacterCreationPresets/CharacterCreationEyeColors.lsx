@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationEyeColors">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h955d0ccfge8f4ga4ccg5031g2ec33185d8ef" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="18b1e6fe-730a-8b01-e7c1-6c766fef32ca"/>
+                    <attribute id="Name" type="FixedString" value="Flame Red A Astarion"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE8324F"/>
+                    <attribute id="UUID" type="guid" value="98568b0d-ff11-43ac-acb1-f13b753226cc"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7e7e3a46gd0f8g07b5g94d9g38d89beaaaf9" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="6821564c-5da1-e910-b494-f1d0a2d22efa"/>
+                    <attribute id="Name" type="FixedString" value="Flame Red A Astarion BLD R"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE8324F"/>
+                    <attribute id="UUID" type="guid" value="0b951a98-c97f-44f3-99d4-802a18c345ae"/>
+                </node>
+                <node id="CharacterCreationEyeColor">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h851eac80g715eg8f1dg055eg1feeb4d8f8a8" version="1"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="f0cda496-7bfc-03fd-cb88-85431fb463f3"/>
+                    <attribute id="Name" type="FixedString" value="Flame Red A Astarion BLD L"/>
+                    <attribute id="UIColor" type="LSString" value="#FFE8324F"/>
+                    <attribute id="UUID" type="guid" value="f2b59e32-839c-48b3-86e9-bc6cbbe78998"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
